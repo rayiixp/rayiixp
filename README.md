@@ -1,10 +1,10 @@
 <div align="center">
   <h1>👋 Hi, I'm Raymart!</h1>
-  <p>🚀 Full Stack Developer | Open Source Enthusiast | Tech Learner</p>
+  <p>💡 IT Student | Tech Enthusiast | Project-Based Learner</p>
 
   <p>
-    <a href="https://github.com/yourusername">
-      <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub followers"/>
+    <a href="https://github.com/rayiixp">
+      <img src="https://img.shields.io/github/followers/rayiixp?label=Follow&style=social" alt="GitHub followers"/>
     </a>
     <a href="https://twitter.com/yourusername">
       <img src="https://img.shields.io/twitter/follow/yourusername?label=Follow&style=social" alt="Twitter Follow"/>
@@ -17,51 +17,45 @@
 
 ---
 
-### 💻 About Me
-- Passionate about building modern web apps and exploring new technologies.
-- Experienced in **JavaScript, Python, PHP, and PostgreSQL**.
-- Interested in **AI, Open Source, and Productivity Tools**.
+### 💡 About Me
+I’m a passionate IT student who loves exploring new technologies and improving my skills through hands-on projects.
 
 ---
 
-### 🔧 Technologies & Tools
-<div>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</div>
+### 🛠️ Skills
+- **Languages:** Java, Python, JavaScript, PHP, SQL  
+- **Web:** HTML, CSS, Bootstrap  
+- **Mobile:** Flutter / Android
+
+---
+
+### 🔧 Tools & Tech
+VS Code • Android Studio • Git • Figma • MySQL
 
 ---
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rayiixp&show_icons=true&hide_border=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayiixp&layout=compact&hide_border=true&theme=radical" />
 </div>
 
 ---
 
 ### 🌱 Currently Learning
-- Advanced **React & Next.js**
-- **AI & Machine Learning** projects
-- **Docker & CI/CD** pipelines
+- Advanced **Flutter & Mobile Development**  
+- **AI & Machine Learning** projects  
+- **Web Development Frameworks**
 
 ---
 
-### 📫 Connect with Me
+### 🔗 Connect with Me
 <p>
-  <a href="mailto:your@email.com">
+  <a href="https://www.facebook.com/raytpolistico">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:raymart.polistico@csucc.edu.ph">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourusername/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
