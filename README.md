@@ -1,40 +1,26 @@
-## Hi, I'm Raymart Polistico! 👋
+# 👋 Hi, I'm Raymart (rayiixp)
 
-💡 About Me
-I’m a passionate IT student who enjoys learning new technologies and developing my skills one project at a time.
+### 💡 About Me
+I’m a passionate IT student who loves exploring new technologies and improving my skills through hands-on projects.
 
-🛠️ Skills
+### 🛠️ Skills
+- **Languages:** Java, Python, JavaScript, PHP, SQL
+- **Web:** HTML, CSS, Bootstrap
+- **Mobile:** Flutter / Android
 
-Languages: Java, Python, JavaScript, PHP, SQL
+### 🔧 Tools & Tech
+VS Code • Android Studio • Git •  Figma • MySQL
 
-Web: HTML, CSS
+### 🔗 Connect
+- Facebook: https://www.facebook.com/raytpolistico
+- Email: raymart.polistico@csucc.edu.ph
 
-Mobile: Flutter / Android
+## 📛 Badges
 
-Database: MySQL, PostgreSQL, Firebase
+![GitHub followers](https://img.shields.io/github/followers/rayiixp?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=rayiixp)
 
-Other: Git, REST APIs, UI/UX Basics
+## 📊 Stats
 
-🔧 Tools & Technologies
-
-VS Code
-
-Android Studio
-
-Git & GitHub
-
-Figma
-
-XAMPP
-
-📊 GitHub Stats
-
-![rayiixp's GitHub stats](https://github-readme-stats.vercel.app/api?rayiixp=rayiixp&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rayiixp=rayiixp)
-
-🔗 Social Links
-
-Facebook: www.facebook.com/raytpolistico
-
-Email: raymart.polistico@csucc.edu.ph
+![rayiixp's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayiixp&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayiixp&layout=compact)
