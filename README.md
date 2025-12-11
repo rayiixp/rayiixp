@@ -48,14 +48,6 @@ I’m a passionate IT student who loves exploring new technologies and improving
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rayiixp&show_icons=true&hide_border=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayiixp&layout=compact&hide_border=true&theme=radical" />
-</div>
-
----
-
 ### 🌱 Currently Learning
 - Advanced **Flutter & Mobile Development**  
 - **AI & Machine Learning** projects  
