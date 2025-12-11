@@ -29,7 +29,7 @@ XAMPP
 
 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?rayiixp=rayiixp&show_icons=true)
+![rayiixp's GitHub stats](https://github-readme-stats.vercel.app/api?rayiixp=rayiixp&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rayiixp=rayiixp)
 
