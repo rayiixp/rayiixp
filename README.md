@@ -11,7 +11,7 @@ I’m a passionate IT student who loves exploring new technologies and improving
 ---
 
 ## 🛠️ Skills
-- **Languages:** Java, Python, JavaScript, PHP, SQL
+- **Languages:** Python, JavaScript, PHP, SQL
 - **Web Development:** HTML, CSS, Bootstrap
 - **Mobile Development:** Flutter / Android
 - **Backend & API:** Node.js, REST APIs
@@ -21,7 +21,7 @@ I’m a passionate IT student who loves exploring new technologies and improving
 ---
 
 ## 🔧 Tools & Technologies
-VS Code • Android Studio • Git & GitHub • Postman • Figma • XAMPP • Docker (basic)
+VS Code • Android Studio • Git & GitHub • Figma • XAMPP
 
 ---
 
@@ -32,9 +32,8 @@ VS Code • Android Studio • Git & GitHub • Postman • Figma • XAMPP • 
 ---
 
 ## 🔗 Connect with Me
-- 💼 **LinkedIn:** [Your LinkedIn](#)
-- 🌐 **Portfolio:** [Your Portfolio](#)
-- 📧 **Email:** your@email.com
+- 👍 **Facebook:** https://www.facebook.com/raytpolistico
+- 📧 **Email:** raymart.polistico@csucc.edu.ph
 
 ---
 
