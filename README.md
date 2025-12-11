@@ -2,10 +2,8 @@
   <h1>👋 Hi, I'm Raymart!</h1>
   <p>💡 IT Student | Tech Enthusiast | Project-Based Learner</p>
 
-  <p>
 ![GitHub followers](https://img.shields.io/github/followers/rayiixp?style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=rayiixp)
-  </p>
 </div>
 
 ---
