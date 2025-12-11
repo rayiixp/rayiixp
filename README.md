@@ -22,5 +22,7 @@ VS Code • Android Studio • Git •  Figma • MySQL
 
 ## 📊 Stats
 
-![rayiixp's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayiixp&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayiixp&layout=compact)
+![rayiixp's GitHub stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=rayiixp&show_icons=true)
+
+![Top Languages](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=rayiixp&layout=compact)
+
