@@ -2,17 +2,8 @@
   <h1>👋 Hi, I'm Raymart!</h1>
   <p>💡 IT Student | Tech Enthusiast | Project-Based Learner</p>
 
-  <p>
-    <a href="https://github.com/rayiixp">
-      <img src="https://img.shields.io/github/followers/rayiixp?label=Follow&style=social" alt="GitHub followers"/>
-    </a>
-    <a href="https://twitter.com/yourusername">
-      <img src="https://img.shields.io/twitter/follow/yourusername?label=Follow&style=social" alt="Twitter Follow"/>
-    </a>
-    <a href="https://www.linkedin.com/in/yourusername/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </p>
+![GitHub followers](https://img.shields.io/github/followers/rayiixp?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=rayiixp)
 </div>
 
 ---
