@@ -15,7 +15,7 @@ I’m a passionate IT student who loves exploring new technologies and improving
 
 ### 🚀 Projects
 
-#### **IT120 - Final Project**
+#### **IT120 - Final Project:**
 https://github.com/rayiixp/Polistico_FinalProject
 
 ---
